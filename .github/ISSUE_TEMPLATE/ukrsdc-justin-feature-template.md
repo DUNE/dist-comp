@@ -1,6 +1,6 @@
 ---
 name: UKRSDC justIN feature template
-about: For export to UK RS&DC project management (2.2 Workflow)
+about: 'UK RS&DC members: project management for 2.2 Workflow'
 title: ''
 labels: justIN, UKRSDC
 assignees: ''

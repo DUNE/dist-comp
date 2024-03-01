@@ -1,6 +1,6 @@
 ---
 name: UKRSDC Rucio feature template
-about: For export to UK RS&DC project management (2.1 Data Management)
+about: 'UK RS&DC members: project management for 2.1 Data Management'
 title: ''
 labels: Rucio, UKRSDC
 assignees: ''
