@@ -1,9 +1,9 @@
 ---
 name: UKRSDC justIN feature template
 about: 'UK RS&DC members: project management for 2.2 Workflow'
-title: ''
+title: UKRSDC Product 2.2.xxx
 labels: justIN, UKRSDC
-assignees: ''
+assignees: Andrew-McNab-UK
 
 ---
 
