@@ -8,3 +8,5 @@ assignees: ''
 ---
 
 Issues with the UKRSDC label are visible in the project management of the UK Reconstruction Software & Distributed Computing project. **Please do not add the UKRSDC tag or use this template unless you are part of the UK RS&DC management** :)
+
+This issue will be a task list of the issues which make up the Rucio 2.1.xxx product in the UK project
